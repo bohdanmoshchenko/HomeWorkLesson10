@@ -1,0 +1,3 @@
+bohdan_moshchenko_blog:
+    resource: "@BohdanMoshchenkoBlogBundle/Resources/config/routing.yml"
+    prefix:   /

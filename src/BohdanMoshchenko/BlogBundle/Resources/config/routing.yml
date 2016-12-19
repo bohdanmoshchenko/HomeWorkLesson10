@@ -1,0 +1,3 @@
+bohdan_moshchenko_blog_homepage:
+    path:     /
+    defaults: { _controller: BohdanMoshchenkoBlogBundle:Default:index }
